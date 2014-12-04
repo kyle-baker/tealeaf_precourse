@@ -1,4 +1,3 @@
-# Add two strings together
 fname = "Kyle"
 lname = "Baker"
 

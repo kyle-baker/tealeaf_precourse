@@ -1,0 +1,1 @@
+#The error shows that the interpreter was expecting a '}'. This likely means that there is a missing closing bracket, possibly for a hash
